@@ -10,5 +10,4 @@
 
 ## Другие работы:
 
-- Panteon. Одностраничный сайт для тренажерного клуба: elena-gerasimovich.github.io/Panteon/
-- https://github.com/Elena-Gerasimovich/Panteon
+- Panteon. Одностраничный сайт для тренажерного клуба: https://elena-gerasimovich.github.io/Panteon/
